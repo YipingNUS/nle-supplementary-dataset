@@ -2,7 +2,7 @@
 
 This repo contains the evaluation datasets used in the following manuscript:
 
-Yiping Jin, Dittaya Wanvarie, Phu T. V. Le, Learning from Noisy Out-of-Domain Corpus Using Dataless Classification. 2019. (To be uploaded after the peer review).
+Yiping Jin, Dittaya Wanvarie, Phu T. V. Le, Learning from Noisy Out-of-Domain Corpus Using Dataless Classification. Natural Language Engineering (2020). DOI: [https://doi.org/10.1017/S1351324920000340](https://doi.org/10.1017/S1351324920000340) 
 
 There are two evaluation datasets: 
 
